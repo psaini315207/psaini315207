@@ -29,7 +29,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=MAVIYA877&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=PRINCE&show_icons=true&theme=tokyonight)
 
 ---
 
